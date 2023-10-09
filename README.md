@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on **Supply Chain Optimisation**
 
+- <a href="https://www.imperial.ac.uk/people/emma.pajak19">Imperial Personal Webpage</a>
 - 📫 How to reach me **eep19@ic.ac.uk**
 
 
