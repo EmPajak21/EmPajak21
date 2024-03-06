@@ -1,6 +1,6 @@
 ###
 
-Hi all 👋
+### Hi all 👋
 
 I am a PhD candidate at Sargent Centre for Process Systems Engineering, Imperial College London working with BASF on Supply Chain Optimization. EPRSC Centre for Doctoral Training in Next Generation Synthesis & Reaction Technology, [CDT React](https://www.imperial.ac.uk/next-generation-synthesis-reaction-technology/).
 
