@@ -1,11 +1,12 @@
-###
+__PhD Researcher | OptiML Group | Sargent Centre for Process Systems Engineering__
 
-### Hi all 👋
+🎓 __Education__: MEng Chemical Engineering (First-Class Honours).
 
-I am a PhD candidate at Sargent Centre for Process Systems Engineering, Imperial College London working with BASF on Supply Chain Optimization. EPRSC Centre for Doctoral Training in Next Generation Synthesis & Reaction Technology, [CDT React](https://www.imperial.ac.uk/next-generation-synthesis-reaction-technology/).
+🔬 __Current Role__: Industrial PhD Researcher, in collaboration with BASF.
 
-<p align="center">
-  <a href="https://www.emmapajak.tech" rel="some text">
-    <img src="https://github.com/EmPajak21/EmPajak21.github.io/blob/main/imgs/Personal%20Website%20(2).png" alt="Foo" width="200">
-  </a>
-</p>
+
+🔍 __Research Interests__
+- Digitalisation of Chemical Value Chains.
+- Machine Learning for Process Systems Engineering.
+- Data-Driven Industrial Innovation.
+
